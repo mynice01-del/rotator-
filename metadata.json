@@ -1,0 +1,8 @@
+{
+  "name": "Remix: OCR Image Auto Rotator_test",
+  "description": "An intelligent OCR web tool that automatically detects text rotation angles, rotates images to their correct orientation, and extracts transcriptions using Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
